@@ -54,15 +54,6 @@ By automatically identifying drivers’ vehicles, the company can:
 - Evaluated model accuracy and response latency.
 - Confirmed the end-to-end pipeline functioned correctly.
 
-### **Step 5: Optional Challenge**
-- Explored additional optimizations for scalability and monitoring.
-- Implemented optional CloudWatch metrics for endpoint health and performance.
-
-### **Step 6: Cleanup Cloud Resources**
-- Deleted deployed endpoints, Step Functions, and S3 objects to avoid unnecessary costs.
-
----
-
 ## 📈 Results and Insights
 
 - Achieved a **high accuracy** in distinguishing between bicycles and motorcycles.
@@ -82,7 +73,7 @@ By automatically identifying drivers’ vehicles, the company can:
 
 ## 🏁 Conclusion
 
-The **Scones Unlimited** project demonstrates how to:
+In the **Scones Unlimited** project, I have learnt and demonstrated how to:
 - Build, train, and deploy scalable image classification models on AWS.
 - Connect multiple AWS services (SageMaker, Lambda, Step Functions) to create a fully automated ML workflow.
 - Deliver production-ready ML solutions that can adapt to real-world business needs.
